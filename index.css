@@ -1,0 +1,15 @@
+main,
+header,
+section,
+nav,
+footer {
+  display: block;
+}
+
+main {
+  width: 70%;
+}
+
+section {
+  float: right;
+}
