@@ -7,9 +7,12 @@ footer {
 }
 
 main {
+  margin: auto;
   width: 70%;
 }
 
 section {
+  margin: 10px;
+
   float: right;
 }
