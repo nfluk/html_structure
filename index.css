@@ -18,6 +18,7 @@ header {
 }
 
 footer {
+  text-align: center;
   clear: both;
   border: 1px solid red;
 }
