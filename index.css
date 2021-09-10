@@ -6,6 +6,7 @@ footer {
   display: block;
 }
 
+/* to center page */
 main {
   margin: auto;
   width: 80%;
@@ -41,4 +42,24 @@ img {
   padding: 20px;
   width: 30%;
   float: right;
+}
+
+/* unvisited link */
+a:link {
+  color: #df1616;
+}
+
+/* visited link */
+a:visited {
+  color: #344f34;
+}
+
+/* mouse over link */
+a:hover {
+  color: #dc1edc;
+}
+
+/* selected link */
+a:active {
+  color: #0000ff;
 }
