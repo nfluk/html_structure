@@ -12,6 +12,14 @@ main {
   border: 1px solid red;
 }
 
+header {
+  border: 1px solid red;
+}
+
+footer {
+  clear: both;
+  border: 1px solid red;
+}
 section {
   margin: 10px;
   width: 70%;
@@ -20,10 +28,12 @@ section {
 }
 
 nav {
+  margin: 10px;
+  width: 30%;
   border: 1px solid red;
 }
 
-footer {
-  clear: both;
-  border: 1px solid red;
+img {
+  width: 30%;
+  float: right;
 }
