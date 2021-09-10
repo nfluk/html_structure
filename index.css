@@ -8,11 +8,18 @@ footer {
 
 main {
   margin: auto;
-  width: 70%;
+  width: 80%;
 }
 
 section {
   margin: 10px;
-
+  width: 70%;
   float: right;
+}
+
+nav {
+}
+
+footer {
+  clear: both;
 }
