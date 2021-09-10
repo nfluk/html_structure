@@ -38,6 +38,10 @@ nav {
   border: 1px solid red;
 }
 
+ul {
+  list-style-type: none;
+}
+
 img {
   padding: 20px;
   width: 30%;
