@@ -13,6 +13,7 @@ main {
 }
 
 header {
+  text-align: center;
   border: 1px solid red;
 }
 
@@ -29,7 +30,7 @@ section {
 
 nav {
   margin: 10px;
-  width: 30%;
+  width: 25%;
   border: 1px solid red;
 }
 
